@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.13.0",
+  "appInfo": {
+    "name": "Sample app-3",
+    "description": "Sample application for e-commerce",
+    "version": "tbtpu2if",
+    "id": "cl44f9qol12547901l4fyso36ez",
+    "url": "https://server.amplication.com/cl44f9qol12547901l4fyso36ez",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl44f9qol12547901l4fyso36ez",
+      "authProvider": "Jwt"
+    }
+  }
+}
